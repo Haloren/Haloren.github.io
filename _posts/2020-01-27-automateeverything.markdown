@@ -1,11 +1,12 @@
 ---
 layout: post
 title:      "automateEverything"
-date:       2020-01-27 23:39:20 +0000
+date:       2020-01-27 18:39:21 -0500
 permalink:  automateeverything
 ---
 
-Kyle R. McKenna (oh great this as-hat just referred to himself in the third person) has work a plethora of jobs. With "job" being the key word. 
+Kyle R. McKenna has worked a plethora of jobs. (Oh great this as-hat just referred to himself in the third person) 
+With "job" being the key word. 
 
 "Job" : not a passion, not a career, and definitely not a lifestyle, but a job can pay some bills.
 
