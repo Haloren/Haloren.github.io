@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "So much I didn't know just to get to what I didn't know."
-date:       2020-02-17 19:37:40 +0000
+date:       2020-02-17 14:37:41 -0500
 permalink:  so_much_i_didnt_know_just_to_get_to_what_i_didnt_know
 ---
 
