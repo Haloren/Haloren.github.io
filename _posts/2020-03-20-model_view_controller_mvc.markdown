@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Model View Controller (MVC)"
-date:       2020-03-20 06:27:40 +0000
+date:       2020-03-20 02:27:41 -0400
 permalink:  model_view_controller_mvc
 ---
 
